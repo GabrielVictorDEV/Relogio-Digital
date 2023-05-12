@@ -3,7 +3,7 @@ O projeto é uma página web que apresenta um relógio digital que muda automati
 
 Com esta aplicação, é possível acompanhar a hora com precisão e ter uma interface atraente e personalizada para diferentes momentos do dia. Acesse ela através do link abaixo! 
 
-<a href="https://gabrielvictordev.github.io/Relogio-Digital/">Link para acesso</a>
+<a href="https://gabrielvictordev.github.io/Relogio-Digital/">Link para acesso ao "Relógio digital"</a>
   
 # Autor: Gabriel Victor 
 
